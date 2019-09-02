@@ -1,3 +1,3 @@
 # nginx-proxy
-nginx-proxy with 100Mo of upload size
+nginx-proxy with 150Mo of upload size
 
